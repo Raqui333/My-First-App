@@ -1,2 +1,2 @@
 # My-First-App
-My first time programming an android app
+My first time programming apps for mobile devices
