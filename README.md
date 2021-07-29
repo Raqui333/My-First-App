@@ -4,4 +4,4 @@ My first time programming apps for mobile devices
 ### Apps Screenshots
 Flutter | Kotlin
 ---- | ----
-<img src="https://github.com/UserUnavailable/My-First-App/blob/main/prints/Flutter.jpg"/> | <img src="https://github.com/UserUnavailable/My-First-App/blob/main/prints/KotlinApp.jpg"/>
+<img src="Screenshots/Flutter.jpg"/> | <img src="Screenshots/KotlinApp.jpg"/>
